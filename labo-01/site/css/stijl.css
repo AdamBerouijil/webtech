@@ -1,0 +1,19 @@
+:root {
+    --background:#0F172A;
+    --tekstkleur:#F8FAFC;
+    --lettertype: Arial, sans-serif;
+
+}
+body{
+    color: var(--tekstkleur);
+    background-color: var(--background);
+     font-family:var(--lettertype)
+}
+
+a{
+    text-decoration: none;
+    color: var(--tekstkleur);
+}
+a:hover{
+    color:lightgrey;
+}
