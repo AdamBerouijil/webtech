@@ -5,4 +5,40 @@
 
 }
 
+
+ul{
+    width: 100%;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    
+
+    
+    
+
+}
+li{
+  
+    justify-content: center;
+    height: 200px;
+}
+    
+    
+    
+
+.tomato {
+    background-color: #FF6347;
+}
+.orangered{
+    background-color: #FF4500;
+}
+.coral{
+    background-color: #ff7F50;
+}
+.lightsalmon{
+    background-color:#FFA07A;
+}
+.darkorange{
+    background-color: #FF8C00;
+}
 /* === your rules === */
