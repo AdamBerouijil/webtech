@@ -40,7 +40,9 @@ header nav a ik heb dit gekozen omdat dit toch een unieke lijn is in de code dus
 ## 6. Je site
 
 - Welke drie waarden staan in je tokenblok, en waarom die?
+mijn tekstkleur achtergrondkleur en lettertype want deze komen vaak voor
 - Wat verandert er in je site als je één token wijzigt?
+vervangt alle onderdelen die deze token gebruikt
 
 ## Thuis: R2.3 (met AI)
 
